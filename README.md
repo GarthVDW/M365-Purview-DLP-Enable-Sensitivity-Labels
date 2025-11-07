@@ -20,7 +20,7 @@ This repository contains PowerShell scripts that automate the complete setup pro
 ## Scripts Included
 
 ### Enable-SensitivityLabels-Complete.ps1
-The main comprehensive script that handles the complete sensitivity labels setup process across all Microsoft 365 services.
+The comprehensive script that handles the complete sensitivity labels setup process across all Microsoft 365 services.
 
 **What it does:**
 1. Installs/updates required PowerShell modules
@@ -30,11 +30,6 @@ The main comprehensive script that handles the complete sensitivity labels setup
 5. Enables SharePoint Online AIP integration
 6. Connects to Security & Compliance Center
 7. Syncs sensitivity labels to Azure AD
-
-### Legacy Scripts (Individual Components)
-- `EnableAIPIntegration.ps1` - SharePoint Online AIP integration only
-- `Execute-AzureAdLabelSync.ps1` - Azure AD label synchronization only
-- `Set-MgBetaDirectorySettingTemplate.ps1` - Graph directory settings only
 
 ## Prerequisites
 
@@ -54,7 +49,7 @@ The main comprehensive script that handles the complete sensitivity labels setup
 
 1. Clone this repository:
    ```powershell
-   git clone https://github.com/yourusername/M365-Purview-DLP-Enable-Sensitivity-Labels.git
+   git clone https://github.com/GarthVDW/M365-Purview-DLP-Enable-Sensitivity-Labels.git
    cd M365-Purview-DLP-Enable-Sensitivity-Labels
    ```
 
