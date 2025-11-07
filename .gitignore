@@ -1,0 +1,36 @@
+# PowerShell transcripts and logs
+*.log
+*.txt
+
+# PowerShell module cache
+PSGetModuleInfo.xml
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
