@@ -153,6 +153,7 @@ MIT License - feel free to use and modify for your organization's needs.
 
 ## Author
 
+Garth van der Woude  
 Created: November 7, 2025
 
 ## Disclaimer
